@@ -1,0 +1,29 @@
+==PROF== Connected to process 13640 (/usr/bin/python3.6)
+==PROF== Profiling "rot13" - 1: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 2: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 3: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 4: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 5: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 6: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 7: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 8: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 9: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 10: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 11: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 12: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 13: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 14: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 15: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 16: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 17: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 18: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 19: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 20: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 21: 0%....50%....100% - 13 passes
+==PROF== Profiling "rot13" - 22: 0%....50%....100%CUDA output cracked in  198.28416859019887  milliseconds per sentence.
+Python output cracked in  0.05806576121937145  milliseconds per sentence.
+Checkpoint: Do python and kernel decryption match? Checking...
+result match
+ - 13 passes
+==PROF== Disconnected from process 13640
+==PROF== Report: metrics.nsight-cuprof-report
